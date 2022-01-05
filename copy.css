@@ -1,0 +1,166 @@
+*{padding:0;
+	margin:0;
+
+}
+.head{
+	width:1200px;
+	height:auto;
+	margin:auto;
+}
+.background{
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-image:url(hi.jpeg);
+	background-position: center;
+	height:600px;
+
+
+
+}
+.justpy{
+	justify-content:space-between;
+	display:flex;
+	box-shadow:0 0 10px #1e3f66;
+	background:#1e3f66;
+	height:80px;
+}
+.logo ul li{
+	list-style:none;
+
+}
+.logo ul li i{
+	font-size:50px;
+	margin-right:15px;
+	color:#E1AD01;
+	margin-top:10px;
+
+}
+.logo ul li a{
+	font-size:40px;
+	font-weight:600;
+	text-transform: uppercase;
+	color:#fff;
+	margin-bottom:20px;
+	text-decoration:none;
+}
+.nav ul{
+	flex:1;
+	display:inline-flex;
+}
+.nav ul li{
+	padding:20px 20px;
+	list-style:none;
+	margin-right:30px;
+
+}
+.nav ul li a{
+	font-weight:bold;
+	font-size:20px;
+	font-family:arial;
+	text-decoration:none;
+	text-transform:uppercase;
+	color:#fff;
+}
+.nav ul li a:hover{
+	color:#E1AD01;
+}
+.apply{
+	flex:1;
+}
+.apply{
+margin-top:20px;
+	margin-left:60px;
+	padding-left:20px;
+	background-color:#E1AD01;
+    margin-bottom:20px;
+	margin-right:20px;
+}
+.apply h3{
+	margin-top:7px;
+
+}
+.jaher h1{
+text-align:center;
+margin-top:80px;
+color:yellow;
+
+}
+.jaher P{
+text-align:center;
+margin-top:5px;
+color:black;
+}
+.jaher5{
+	width:350px;
+	height:100px;
+	background-color:#1e3f66;
+	margin-top:180px;
+	margin-left:1px;
+	float:left;
+
+}
+.jaher5 li{
+	list-style:none;
+}
+.jaher5 ul li i{
+	font-size:30px;
+	color:#E1AD01;
+}
+.jaher5 ul li a{
+	font-size:24px;
+	font-weight:300;
+	font-family:all;
+	text-decoration:none;
+	color:#fff;
+	list-style:none;
+}
+.jaher5 ul li p{
+	color:#fff;
+}
+
+.jaher4{
+	margin-left:75px;
+}
+#about{
+	padding-top:50px;
+	padding-bottom:50px;
+	color:#555;
+}
+#about button{
+	margin-top:20px;
+	shape-margin:30px;
+}
+.about-content{
+	padding-top: 20px;
+
+}
+.skills-bar h2{
+	text-align:center;
+	text-transform:uppercase;
+}
+.skills-bar p{
+	margin-bottom:6px;
+	font-weight:600;
+	text-transform:uppercase;
+}
+.progress-bar{
+	border-radius: 16px;
+}
+.progress{
+	border-radius:16px;
+}
+
+
+
+#price{
+	padding:20px 0;
+	background-color:#efefef;
+}
+.singal-price{
+	display:inline;
+	float:left;
+	width:150px;
+	background-color:#fff;
+	transition:0.5s;
+
+}
